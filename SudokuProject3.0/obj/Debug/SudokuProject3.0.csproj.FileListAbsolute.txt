@@ -1,0 +1,14 @@
+C:\HackersGuild\SharpMatterial\SudokuProject3.0\SudokuProject3.0\bin\Debug\SudokuProject3.0.exe.config
+C:\HackersGuild\SharpMatterial\SudokuProject3.0\SudokuProject3.0\bin\Debug\SudokuProject3.0.exe
+C:\HackersGuild\SharpMatterial\SudokuProject3.0\SudokuProject3.0\bin\Debug\SudokuProject3.0.pdb
+C:\HackersGuild\SharpMatterial\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.csprojAssemblyReference.cache
+C:\HackersGuild\SharpMatterial\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.csproj.CoreCompileInputs.cache
+C:\HackersGuild\SharpMatterial\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.exe
+C:\HackersGuild\SharpMatterial\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.pdb
+C:\Storage\Old projects A1\SudokuProject3.0\SudokuProject3.0\bin\Debug\SudokuProject3.0.exe.config
+C:\Storage\Old projects A1\SudokuProject3.0\SudokuProject3.0\bin\Debug\SudokuProject3.0.exe
+C:\Storage\Old projects A1\SudokuProject3.0\SudokuProject3.0\bin\Debug\SudokuProject3.0.pdb
+C:\Storage\Old projects A1\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.csprojAssemblyReference.cache
+C:\Storage\Old projects A1\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.csproj.CoreCompileInputs.cache
+C:\Storage\Old projects A1\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.exe
+C:\Storage\Old projects A1\SudokuProject3.0\SudokuProject3.0\obj\Debug\SudokuProject3.0.pdb
