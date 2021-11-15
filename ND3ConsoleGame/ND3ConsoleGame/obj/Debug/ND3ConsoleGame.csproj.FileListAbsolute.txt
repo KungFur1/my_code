@@ -1,0 +1,14 @@
+C:\HackersGuild\SharpMatterial\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.csprojAssemblyReference.cache
+C:\HackersGuild\SharpMatterial\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.csproj.CoreCompileInputs.cache
+C:\HackersGuild\SharpMatterial\ND3ConsoleGame\ND3ConsoleGame\bin\Debug\ND3ConsoleGame.exe.config
+C:\HackersGuild\SharpMatterial\ND3ConsoleGame\ND3ConsoleGame\bin\Debug\ND3ConsoleGame.exe
+C:\HackersGuild\SharpMatterial\ND3ConsoleGame\ND3ConsoleGame\bin\Debug\ND3ConsoleGame.pdb
+C:\HackersGuild\SharpMatterial\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.exe
+C:\HackersGuild\SharpMatterial\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.pdb
+D:\Storage\Old projects A1\ND3ConsoleGame\ND3ConsoleGame\bin\Debug\ND3ConsoleGame.exe.config
+D:\Storage\Old projects A1\ND3ConsoleGame\ND3ConsoleGame\bin\Debug\ND3ConsoleGame.exe
+D:\Storage\Old projects A1\ND3ConsoleGame\ND3ConsoleGame\bin\Debug\ND3ConsoleGame.pdb
+D:\Storage\Old projects A1\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.csprojAssemblyReference.cache
+D:\Storage\Old projects A1\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.csproj.CoreCompileInputs.cache
+D:\Storage\Old projects A1\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.exe
+D:\Storage\Old projects A1\ND3ConsoleGame\ND3ConsoleGame\obj\Debug\ND3ConsoleGame.pdb
