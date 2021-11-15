@@ -1,0 +1,3 @@
+﻿  FlightFinder.cpp
+C:\Users\Plasc\OneDrive\Desktop\ADS\Flights\Flights\FlightFinder.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+  Flights.vcxproj -> C:\Users\Plasc\OneDrive\Desktop\ADS\Flights\Debug\Flights.exe
